@@ -1,0 +1,13 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "postgres": "postgresql://localhost/todoBackend",
+  "public": "../public/",
+  "auth": {
+    "idField": "id",
+    "token": {
+      "secret": "hv9UpV998vI2fv2KWKvzhlz4conRQPxXp5frIOSORhH4w23pQuDdL/QqFYxypg2JPw+fJwyV/WmobD82zbLy6A=="
+    },
+    "local": {}
+  }
+}
